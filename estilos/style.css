@@ -40,3 +40,23 @@ iframe#tela {
     height: 470px;
 }
 
+section#redes-sociais > a > img {
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.363);
+    box-sizing: border-box;
+}
+
+section#redes-sociais {
+    text-align: right;
+}
+
+section#redes-sociais img:hover {
+    border: 2px solid rgba(255, 255, 255, 0.637);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.582);
+
+    
+    
+
+}
