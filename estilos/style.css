@@ -32,3 +32,11 @@ section#telefone {
     background: url('../ProjetoSocial/imagens/frame-iphone.png') no-repeat;
 }
 
+iframe#tela {
+    position: relative;
+    top: 81px;
+    left: 23px;
+    width: 266px;
+    height: 470px;
+}
+
